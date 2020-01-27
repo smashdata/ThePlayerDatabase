@@ -11,8 +11,8 @@ SQLite Databases for smashdata.gg. You can download up the most recent files fro
 # PGR Only Releases
 | Game     | Season | Last Updated | Link |
 |:--------:|:-------|:------------:|:----:|
-| Ultimate | PGRU 1 | 2020-01-02   | [pgru_s1.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGRU.S1.0/pgru_s1.db) |
-| Ultimate | PGRU 2 | 2020-01-02   | [pgru_s2.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGRU.S2.0/pgru_s2.db) |
+| Ultimate | PGRU 1 | 2020-01-20   | [pgru_s1.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGRU.S1.1/pgru_s1.db) |
+| Ultimate | PGRU 2 | 2020-01-20   | [pgru_s2.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGRU.S2.1/pgru_s2.db) |
 | Smash 4  | PGR4 1 | 2020-01-22   | [pgr4_s1.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.0/pgr4_s1.db)    |
 | Smash 4  | PGR4 2 | 2020-01-22   | [pgr4_s2.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.0/pgr4_s2.db)    |
 | Smash 4  | PGR4 3 | 2020-01-22   | [pgr4_s3.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.0/pgr4_s3.db)    |
