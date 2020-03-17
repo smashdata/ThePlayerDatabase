@@ -3,8 +3,8 @@ SQLite Databases for smashdata.gg. You can download up the most recent files fro
 
 | Game     | Last Updated | Link |
 |:--------:|:------------:|:----:|
-| Ultimate |  2020-03-09  | [ultimate_player_database.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/v2020.03.09/ultimate_player_database.db) |
-| Melee    |  2019-03-09  | [melee_player_database.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/v2020.03.09/melee_player_database.db)       |
+| Ultimate |  2020-03-16  | [ultimate_player_database.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/v2020.03.09/ultimate_player_database.db) |
+| Melee    |  2019-03-16  | [melee_player_database.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/v2020.03.09/melee_player_database.db)       |
 | Smash 4  |  2020-03-02  | [smash4_player_database.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.2/smash4_player_database.db)         |
 
 # PGR Only Releases
@@ -12,7 +12,7 @@ SQLite Databases for smashdata.gg. You can download up the most recent files fro
 |:--------:|:-------|:------------:|:----:|
 | Ultimate | PGRU 1 | 2020-03-02   | [pgru_s1.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGRU.S1.2/pgru_s1.db)   |
 | Ultimate | PGRU 2 | 2020-03-02   | [pgru_s2.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGRU.S2.2/pgru_s2.db)   |
-| Ultimate | Current| 2020-03-09   | [pgru_s3.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGRU.S3.W12/pgru_s3.db) |
+| Ultimate | Current| 2020-03-16   | [pgru_s3.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGRU.S3.W12/pgru_s3.db) |
 | Smash 4  | PGR4 1 | 2020-03-02   | [pgr4_s1.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.2/pgr4_s1.db)      |
 | Smash 4  | PGR4 2 | 2020-03-02   | [pgr4_s2.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.2/pgr4_s2.db)      |
 | Smash 4  | PGR4 3 | 2020-03-02   | [pgr4_s3.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.2/pgr4_s3.db)      |
