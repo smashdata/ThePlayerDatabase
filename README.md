@@ -19,7 +19,7 @@ SQLite Databases for smashdata.gg. You can download the most recent files from [
 | Smash 4  | PGR4 4 | 2020-03-02   | [pgr4_s4.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.2/pgr4_s4.db)      |
 | Smash 4  | PGR4 5 | 2020-03-02   | [pgr4_s5.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.2/pgr4_s5.db)      |
 | Smash 4  | PGR4 6 | 2020-03-02   | [pgr4_s6.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.2/pgr4_s6.db)      |
-
+ 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N81EIYD)
 
