@@ -3,8 +3,8 @@ SQLite Databases for smashdata.gg. You can download the most recent files from [
 
 | Game     | Last Updated | Link |
 |:--------:|:------------:|:----:|
-| Ultimate |  2023-02-13  | [ultimate_player_database.zip](https://github.com/smashdata/ThePlayerDatabase/releases/download/v2023.02.12/ultimate_player_database.zip) |
-| Melee    |  2023-02-13  | [melee_player_database.zip](https://github.com/smashdata/ThePlayerDatabase/releases/download/v2023.02.12/melee_player_database.zip)       |
+| Ultimate |  2023-02-20  | [ultimate_player_database.zip](https://github.com/smashdata/ThePlayerDatabase/releases/download/v2023.02.19/ultimate_player_database.zip) |
+| Melee    |  2023-02-20  | [melee_player_database.zip](https://github.com/smashdata/ThePlayerDatabase/releases/download/v2023.02.19/melee_player_database.zip)       |
 | Smash 4  |  2020-03-02  | [smash4_player_database.db](https://github.com/smashdata/ThePlayerDatabase/releases/download/vPGR4.2/smash4_player_database.db)           |
 
 # PGR Only Releases
